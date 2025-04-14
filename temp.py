@@ -1,0 +1,7 @@
+code = int(input("Enter empCode: "))
+name = input('Enter your Name: ')
+email = input('Enter your E-mail: ')
+password = input('Enter your Password: ')
+gender = input('Enter your Gender: ')
+dob = input('Enter your DOB: ')
+mobNo = int(input('Enter your mobNo: '))
